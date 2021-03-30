@@ -1,0 +1,11 @@
+{
+  "title": "Kubernetes Basic",
+  "description": "Explore the Kubernetes service deployment scenario .",
+  "courses": [
+    {
+      "course_id": "1-service-deploy",
+      "title": "1. Deploying Services",
+      "description": "Learn to deploy service to Kubernetes cluster."
+    }
+  ]
+}
