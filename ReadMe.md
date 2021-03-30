@@ -4,4 +4,4 @@ A basic workshop to learn the Kubernetes basic service deployment. This workshop
 
 ## Links
 
-1. Katacoda: [Link](https://katacoda.com/tarunp/courses/kubernetes-basic/)
+1. Katacoda: [Link](https://katacoda.com/tarunpabbi/courses/service-deploy)
