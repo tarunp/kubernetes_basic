@@ -1,6 +1,6 @@
 # Kubernetes Basic Service Deploy
 
-A basic workshop to learn the Kubernetes basic service deployment. This workshop is hosted on Katacoda. 
+A  workshop to learn the Kubernetes basic service deployment. This workshop is hosted on Katacoda. 
 
 ## Links
 
